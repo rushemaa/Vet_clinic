@@ -60,7 +60,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-git git@github.com:rushemaa/Vet_clinic.git
+git clone git@github.com:rushemaa/Vet_clinic.git
 
 ### Install
 
@@ -73,8 +73,6 @@ To run the project, start psql and execute the command from schema.sql, data.sql
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Rushema Anicet**
 
@@ -116,8 +114,6 @@ If you like this project please leave a comment,and I will get in touch with you
 - Thanks to the Microverse team for the great curriculum.
 - Thanks to the Code Reviewer(s) for the insightful feedbacks.
 - Hat tip to anyone whose code was used.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
