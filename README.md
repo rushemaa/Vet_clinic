@@ -86,7 +86,6 @@ To run the project, start psql and execute the command from schema.sql, data.sql
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Query and update animals table]**
 - [ ] **[Create animals' owners table]**
 - [ ] **[Create clinic employees table]**
 - [ ] **[Create visits table]**
