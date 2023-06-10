@@ -87,7 +87,6 @@ To run the project, start psql and execute the command from schema.sql, data.sql
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Create clinic employees table]**
-- [ ] **[Create visits table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
